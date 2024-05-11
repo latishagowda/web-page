@@ -1,0 +1,28 @@
+.header1{
+    text-align: center;
+    color:rgb(218, 20, 20);
+    
+}
+
+.h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:rgb(116, 53, 218);
+}
+
+.signin{
+    
+    height:100px;
+    width:80%;
+
+}
+
+.loog{
+    height:100px;
+    width:80%;
+}
+
+.avail{
+    color:rgb(8, 2, 4);
+    
+}
